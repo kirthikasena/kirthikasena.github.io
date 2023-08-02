@@ -12,21 +12,23 @@ redirect_from:
 
 👩‍💻 I'm a final year undergraduate student at IIT Sri Lanka, which is affiliated with RGU(UK)
 
-📚 My research interests are to improve and build a more computationally efficient small language model in their interpretability, knowledge reasoning, and explainability in a domain-specific task by using large language models.
+🌟 I'm currently working as a Data scientist Intern at Ascentic, an internationally recognized Sew-Lankan software development company, It has been repeatedly lauded as one of the best places to work in Asia, securing an impressive rank of 32 in 2022 and maintaining a strong position in previous years since 2017.
+
+📚 My research interests are to improve and build a more computationally efficient small language model in its interpretability, knowledge reasoning, and explainability in a domain-specific task by using large language models and prompt engineering. I am also interested on creating synthetic data to improve the model's performance due to data sparsity challenges **Methodologies**: Natural Language Processing, Graph Neural Networks, Deep learning algorithms
 
 💥 I'm currently working towards my undergraduate thesis in the field of Natural Language Processing.
 
-## Selected projects in data science, machine learning and NLP
+## Work and Research experience
 
 ---
 
-### Deep NLP for hate speech detection
+### Identifying covid positive individuals using respiratory and talking audio
 
 Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#) 
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View code on github](https://github.com/kirthikasena/Covid_project)
 
 ---
 

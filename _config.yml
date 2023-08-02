@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Kirthika senathiraja"
   avatar           : "resize-1.png"
-  bio              : "NLP and Large langauge models"
+  bio              : "Final year undergrad at IIT(SL) affiliated with RGU(UK)"
   location         : "Srilanka"
-  employer         : "Information Institute Of Technology affiliated with Robert Gordon University"
+  # employer         : "Information Institute Of Technology affiliated with Robert Gordon University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "kirthisenathiraja@gmail.com"

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of robots teaching one another](/images/robots.png){: .align-right width-"300px"}
+![Illustration of robots teaching one another](/images/robots-1.png){: .align-right width="300px"}
 
 👩‍💻 I'm a final year undergraduate student at IIT Sri Lanka, which is affiliated with RGU(UK)
 

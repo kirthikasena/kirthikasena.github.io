@@ -22,9 +22,13 @@ redirect_from:
 
 ---
 
-### Identifying covid positive individuals using respiratory and talking audio
+### Sophomore Year-Identifying covid-19 positive individuals using respiratory and talking sounds of an individual
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+This project is a web application and mobile application that saves user-profiles and detects covid-19. The aim of the research is to use it as a pre-screen tool before taking a PCR test. The user has to record six types of sounds such as follows:
+
+Shallow cough, Shallow breathing, heavy cough, vowel E, vowel O, fast counting(from 1 to 10)
+
+These sounds are pre-processed and converted to mel-spectrograms and are passed into the Convolutional Neural Network model. There are 6 unique CNN for each 6 sound. They are ensembled to give the prediction of this binary classification.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#) 
 

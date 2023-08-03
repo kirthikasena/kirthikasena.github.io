@@ -10,7 +10,7 @@ redirect_from:
 
 
 <p align="right">
-  <img width="300" height="300" src="/images/robots-1.pn">
+  <img width="300" height="300" src="/images/robots-1.png">
 </p>
 
 👩‍💻 I'm a final year undergraduate student following an Artificial Intelligence and Data Science degree at the Information Institute Of Technology Sri Lanka, which is affiliated with Robert Gordon University(UK)

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" style="float" float="right" width="300" height="300" src="/images/robots-1.png">
+<img align="right" style="float" float="right" margin="50px" width="300" height="300" src="/images/robots-1.png">
 
 👩‍💻 I'm a final year undergraduate student following an Artificial Intelligence and Data Science degree at the Information Institute Of Technology Sri Lanka, which is affiliated with Robert Gordon University(UK)
 

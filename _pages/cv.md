@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Medium blogs"
 permalink: /cv/
 author_profile: true
 redirect_from:

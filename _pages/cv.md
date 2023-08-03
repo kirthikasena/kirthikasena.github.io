@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Medium Blogs
-
----
-
 ### Think your way to AI — Part one: Artificial Intelligence, simply put
 
 This blog gives a simplistic idea of Artificial Intelligence and how it affects our everyday life. The evolution of Ai is explained by feeding the curiosity of the common public.

@@ -1,5 +1,5 @@
 ---
-title: "Hierarchical Categorization of products line items with product taxonomy using Deep learning and NLP techniques"
+title: "Hierarchical Categorization of products line items with product taxonomy using Deep learning and NLP techniques(Research project)"
 excerpt: "Collaborated with industry team and assisted in Categorizing product line items using Natural language and deep learning processing techniques according to a standard hierarchical product taxonomy(Unspsc)"
 collection: portfolio
 ---

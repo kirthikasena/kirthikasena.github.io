@@ -1,6 +1,6 @@
 ---
 title: "Identifying Covid-19 positive individuals using respiratory and talking sounds of an individual"
-excerpt: "This project is a web application and mobile application that saves user-profiles and detects covid-19. The aim of the research is to use it as a pre-screen tool before taking a PCR test<br/><img src='/images/Screenshot 2023-08-03 at 09.31.24.png'>"
+excerpt: "This project is a web application and mobile application that saves user-profiles and detects covid-19. The aim of the research is to use it as a pre-screen tool before taking a PCR test<br/><img src='/images/covid.png'>"
 collection: portfolio
 ---
 

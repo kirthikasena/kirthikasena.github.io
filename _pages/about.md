@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of robots teaching one another](/images/robots-1.png){: .align-right width="300px"}
-<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
+<img align="left" width="100" height="100" src="/images/robots-1.png">
 
 👩‍💻 I'm a final year undergraduate student following an Artificial Intelligence and Data Science degree at the Information Institute Of Technology Sri Lanka, which is affiliated with Robert Gordon University(UK)
 

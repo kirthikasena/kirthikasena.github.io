@@ -14,13 +14,13 @@ redirect_from:
 
 <p align="left" margin="10px">
   
-👩‍💻 I'm a final year undergraduate student following an Artificial Intelligence and Data Science degree at the Information Institute Of Technology Sri Lanka, which is affiliated with Robert Gordon University(UK)</br>
+<br> 👩‍💻 I'm a final year undergraduate student following an Artificial Intelligence and Data Science degree at the Information Institute Of Technology Sri Lanka, which is affiliated with Robert Gordon University(UK) </br>
 
-📚 My research interests lie in the field of Naural language processing, machine learning, and Generative AI.</br>
+<br> 📚 My research interests lie in the field of Naural language processing, machine learning, and Generative AI. </br>
 
-💥 I am curious and like to explore improving and building a more computationally efficient small language model in its interpretability, knowledge reasoning, and explainability in a domain-specific task. I also like to experiment with improving the language model's performance  when given low training data </br>
+<br> 💥 I am curious and like to explore improving and building a more computationally efficient small language model in its interpretability, knowledge reasoning, and explainability in a domain-specific task. I also like to experiment with improving the language model's performance  when given low training data </br>
 
- **Methodologies**: Natural Language Processing, Graph Neural Networks, Deep learning algorithms</br>
+ <br> <b>Methodologies: Natural Language Processing, Graph Neural Networks, Deep learning algorithms <b> </br>
 
  </p>
  

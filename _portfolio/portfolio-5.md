@@ -1,4 +1,4 @@
-![image](https://github.com/kirthikasena/kirthikasena.github.io/assets/95086317/d7350a5a-37a4-4f9f-97a4-5606f99b5bc2)---
+---
 title: "K-means cluster analysis with silhouettes of vehicles using R studio"
 excerpt: "conduct the k-means clustering analysis of this vehicle dataset problem. As this is
 a typical multi-dimensional, in terms of features,PCA is done. In this specific clustering part, however, the analysis will be performed with all

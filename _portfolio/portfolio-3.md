@@ -1,5 +1,5 @@
 ---
-title: "Accident and Violence Detection at the Edge"
+title: "Accident and Violence Detection using Deep learning algorithms at the Edge"
 excerpt: "This is a group project for detecting Accident and robberies at the edge using mobile application called Smart-Eye"
 collection: portfolio
 ---

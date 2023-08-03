@@ -1,5 +1,5 @@
 ---
-title: "Identifying Covid-19 positive individuals using respiratory and talking sounds of an individual"
+title: "Identifying Covid-19 positive individuals using respiratory and talking sounds of an individual using machine and deep learning algorithms"
 excerpt: "This project is a web application and mobile application that saves user-profiles and detects covid-19. The aim of the research is to use it as a pre-screen tool before taking a PCR test"
 collection: portfolio
 ---

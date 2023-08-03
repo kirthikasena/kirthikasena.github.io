@@ -1,11 +1,4 @@
----
-permalink: /
-title: "Hi there, I'm Kirthika! "
-excerpt: "About me"
-author_profile: true
-redirect_from: 
 
----
 
 
 👩‍💻 I'm a final year undergraduate student following an Artificial Intelligence and Data Science degree at the Information Institute Of Technology Sri Lanka, which is affiliated with Robert Gordon University(UK)

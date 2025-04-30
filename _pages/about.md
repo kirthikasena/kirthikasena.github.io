@@ -12,8 +12,7 @@ redirect_from:
 
 <img align="right" width="300" height="300" src="/images/robots-1.png">
 
-  
-👩‍💻 I'm a final year undergraduate student following an Artificial Intelligence and Data Science degree at the Information Institute Of Technology Sri Lanka, which is affiliated with Robert Gordon University(UK)
+👩‍💻 I'm a Machine Learning Engineer with a strong foundation in Artificial Intelligence and Data Science, currently based in Sri Lanka. I graduated from the Informatics Institute of Technology (affiliated with Robert Gordon University, UK), and I'm passionate about building **practical AI solutions that are interpretable, efficient, and aligned with real-world needs**.
 
 📚 My research interests lie in the field of Naural language processing, machine learning, and Generative AI.
 

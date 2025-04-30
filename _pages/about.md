@@ -21,7 +21,7 @@ efficient, and aligned with real-world needs.
 📌 Currently, I'm working at **Ascentic** - a Swedish based company in SriLanka on ML pipelines and NLP applications involving:
 - Automated invoice and dimension prediction
 - Data preprocessing at scale (millions of rows)
-- Batch inference with AMAzon bedrock
+- Batch inference with Amazon bedrock
 - Experimentation with LLMs, embeddings, and zero-shot techniques
 
 🧪 On the research side, my undergraduate research includes:

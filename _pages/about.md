@@ -12,29 +12,20 @@ redirect_from:
 
 <img align="right" width="300" height="300" src="/images/robots-1.png">
 
-👩‍💻 I'm a Machine Learning Engineer with a strong foundation in Artificial Intelligence and Data Science, currently based in Sri Lanka. I graduated from the Informatics Institute of Technology (affiliated with Robert Gordon University, UK), and I'm passionate about building **practical AI solutions that are interpretable, efficient, and aligned with real-world needs**.
+👩‍💻 I'm a Machine Learning Engineer with a strong foundation in Artificial Intelligence and Data Science, currently based in Sri Lanka. I graduated from the Informatics Institute of Technology (affiliated with Robert Gordon University, UK)
 
-🔍 **My focus areas include:**
-- Natural Language Processing (NLP)
-- Multi-label classification
-- Generative AI & Prompt Engineering
-- Applied AI for sustainability and social impact
 
-📌 Currently, I'm working at **Ascentic** on ML pipelines and NLP applications involving:
+🔍 **My focus areas is NLP (Natural Language Processing) and I'm passionate about building **practical AI solutions that are interpretable, efficient, and aligned with real-world needs**.
+
+📌 Currently, I'm working at **Ascentic** - a swedish based company in SriLanka on ML pipelines and NLP applications involving:
 - Automated invoice and dimension prediction
 - Data preprocessing at scale (millions of rows)
 - Experimentation with LLMs, embeddings, and zero-shot techniques
 
-🧪 On the research side, I'm exploring:
-- **Prompt engineering for sustainability** in the hospitality industry
-- **Efficient LLM design** for low-resource and domain-specific tasks
+🧪 On the research side, my undergraduate research includes:
+- **Prompt engineering for review summarization and sustainability** in the hospitality industry with close source and open source models
 
-
-## Ongoing Final Year Research 
-
-The aim of the research is to develop a novel recommendation system that utilizes advanced deep learning techniques to suggest personalized marketing and improvement strategies for eco-friendly hotels in Asia using text data(customer reviews). It proposes improvements centering on food, location, and staff-guest engagement (customer service) to assist hotel managers in decision-making, ensuring the model is computationally efficient.
-
-**Methodologies currently being worked on: knowledge distillation, interpretability, prompt engineering, and creating synthetic data using LLMs.**
+**Methodologies currently being worked on: Retrival Augmentation Generation,Prompt Engineering, LLMs
 
 ----------------
 

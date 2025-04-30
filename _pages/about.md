@@ -14,11 +14,20 @@ redirect_from:
 
 👩‍💻 I'm a Machine Learning Engineer with a strong foundation in Artificial Intelligence and Data Science, currently based in Sri Lanka. I graduated from the Informatics Institute of Technology (affiliated with Robert Gordon University, UK), and I'm passionate about building **practical AI solutions that are interpretable, efficient, and aligned with real-world needs**.
 
-📚 My research interests lie in the field of Naural language processing, machine learning, and Generative AI.
+🔍 **My focus areas include:**
+- Natural Language Processing (NLP)
+- Multi-label classification
+- Generative AI & Prompt Engineering
+- Applied AI for sustainability and social impact
 
-💥 I am curious and like to explore improving and building a more computationally efficient small language model in its interpretability, knowledge reasoning, and explainability in a domain-specific task. I also like to experiment with improving the language model's performance  when given low training data
+📌 Currently, I'm working at **Ascentic** on ML pipelines and NLP applications involving:
+- Automated invoice and dimension prediction
+- Data preprocessing at scale (millions of rows)
+- Experimentation with LLMs, embeddings, and zero-shot techniques
 
- Methodologies: Natural Language Processing, Graph Neural Networks, Deep learning algorithms
+🧪 On the research side, I'm exploring:
+- **Prompt engineering for sustainability** in the hospitality industry
+- **Efficient LLM design** for low-resource and domain-specific tasks
 
 
 ## Ongoing Final Year Research 

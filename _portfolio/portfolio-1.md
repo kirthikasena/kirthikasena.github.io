@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-<img src='/images/Categorization.png'>
+<img src='/images/design.png'>
 <br>In the burgeoning field of Natural Language Processing (NLP), prompt engineering has
 opened new avenues for enhancing the capabilities of large language models (LLMs) across
 various applications with less or no training data. This study leverages such advancements to
@@ -30,7 +30,8 @@ could used for evaluating individual review summarization with ten hotels from S
 India.
 
 <b>Keywords: zero-shot Chain of thoughts (CoT), prompt decomposition, sustainable strategies,
-review summarization, LLMs,prompt engineering</b>
+review summarization, LLMs,prompt engineering</b><br>
+
 <b>Technologies: Python,NLP,LangChain,OpenAI,Mistral,Llama,Zephyr</b>
 
 

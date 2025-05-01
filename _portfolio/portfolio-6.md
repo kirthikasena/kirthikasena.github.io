@@ -59,6 +59,6 @@ plot using NbClust package with :
 
 
 <b>Technologies: R studio ,machine learning, unsupervised learning</b>
-<a href="https://qvalia.com/features/unspsc-classification/">view the service</a>
+
 <img rel="icon" href="https://img.shields.io/badge/Python-white?logo=Python"> <img rel="icon" href="https://img.shields.io/badge/Jupyter-white?logo=Jupyter"> <img rel="icon" href="https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow">
 <hr style="border-top: dotted 1px;" />

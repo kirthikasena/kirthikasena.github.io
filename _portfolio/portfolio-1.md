@@ -1,21 +1,39 @@
 ---
 title: "Prompt based approaches for review summarization and sustainability in hotels (Research Project)"
-excerpt: "Collaborated with industry team and assisted in Categorizing product line items using Natural language and deep learning processing techniques according to a standard hierarchical product taxonomy(Unspsc)"
+excerpt: "This study applies prompt engineering with LLMs to generate sustainable strategies from hotel reviews in Sri Lanka and India. Techniques like prompt decomposition and zero-shot CoT improved summarization and sustainability alignment."
 collection: portfolio
 ---
 
-<h6>Junior year-Internship experience</h6>
+
 <img src='/images/Categorization.png'>
-<br>The United Nations Standard Products and Services Code is the leading global classification of products and services. With 50,000 categories in a five-level hierarchy, UNSPSC standardizes codification and makes transactions transparent for every stakeholder in an organization.
- •Collaborated with the team in developing a Deep learning Methodology on this retail hierarchical taxonomy classification task, thus improving a language model performance on a product categorization-specific task.
-<b>challenges:data sparsity, multilangual,unstructured data</b>.I assited in literature review on the existing systems. I assisted in experimenting with machine learning and deep learning methodologies. Learned about various NLP technologies and Python libraries such as spacy, and NLtk. worked with pre-trained language models .Built scripts for web scraping using python. I had the opportunity to use and learn AWS cloud services such as amazon sagemaker.
+<br>In the burgeoning field of Natural Language Processing (NLP), prompt engineering has
+opened new avenues for enhancing the capabilities of large language models (LLMs) across
+various applications with less or no training data. This study leverages such advancements to
+address sustainability in tourism in countries with rich natural resources and cultural heritage,
+such as Sri Lanka and India. While popular among tourists, these nations face ongoing
+economic challenges that demand innovative solutions to ensure sustainability in all
+dimensions: economy, culture, society, and politics.
+Therefore, this study presents innovative sustainable strategies for addressing customer
+reviews regarding food, location/geo-location, and customer service/guest relations in Sri
+Lankan and Indian hotels. The research utilized open-source LLMs with 7b models and closed-
+source models like gpt 3.5 (175B). It developed a prompt that might be useful for these
+problems revolving around sustainability in these three aspects. The study improved individual
+summarization in criteria such as negative coverage and specificity for all three aspects of 3
+models by point level(Likert scale 1-5), increasing from 0.02 – 0.55 and 1-2% in Rouge and
+Bert scores with a hybrid approach of multi-prompting including hierarchical prompting, plan
+and execute prompting .0.5-1.1.5 ranges improvements for 175 b parameters in overall
+summaries for all aspects with prompts of base instructions and more considerable margin
+increase in sustainable alignment solutions on the identified concerns with keywords ‘what if’
+and ‘divergent thinking’ with the help of prompt decomposition paradigm and zero-shot
+Chain of thoughts (CoT). Moreover, the research also introduces a dataset of reviews that
+could used for evaluating individual review summarization with ten hotels from Sri Lanka and
+India.
 
-<b>Technologies: Python,NLP,TensorFlow,Pytorch,Aws services</b>
+<b>Keywords: zero-shot Chain of thoughts (CoT), prompt decomposition, sustainable strategies,
+review summarization, LLMs,prompt engineering</b>
+<b>Technologies: Python,NLP,LangChain,OpenAI,Mistral,Llama,Zephyr</b>
 
-<h6>Graduated-Machine Learning Engineer experience</h6>
-This is further upscaled with Mistral model and experiementation with differnt RAG techniques.
 
-
-<a href="https://qvalia.com/features/unspsc-classification/">view the service</a>
+<a href="https://github.com/kirthikasena/prototype-fyp">Github link</a>
 <img rel="icon" href="https://img.shields.io/badge/Python-white?logo=Python"> <img rel="icon" href="https://img.shields.io/badge/Jupyter-white?logo=Jupyter"> <img rel="icon" href="https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow">
 <hr style="border-top: dotted 1px;" />

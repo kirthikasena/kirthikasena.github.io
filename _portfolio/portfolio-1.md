@@ -32,7 +32,7 @@ India.
 <b>Keywords: zero-shot Chain of thoughts (CoT), prompt decomposition, sustainable strategies,
 review summarization, LLMs,prompt engineering</b><br>
 
-<b>Technologies: Python,NLP,LangChain,OpenAI,Mistral,Llama,Zephyr</b>
+<b>Technologies: Python, NLP, LangChain, OpenAI, Mistral, Llama, Zephyr</b>
 
 
 <a href="https://github.com/kirthikasena/prototype-fyp">Github link</a>
